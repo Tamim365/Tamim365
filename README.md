@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![HitCount](http://hits.dwyl.com/Tamim365/Tamim365.svg)](http://hits.dwyl.com/Tamim365/Tamim365)
 
 <!--
 **Tamim365/Tamim365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,8 +33,6 @@ Here are some ideas to get you started:
 </a>
 </div>
 
-
-[![HitCount](http://hits.dwyl.com/Tamim365/Tamim365.svg)](http://hits.dwyl.com/Tamim365/Tamim365)
 
 <br />
 
