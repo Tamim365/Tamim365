@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </div>
 
 
-[![HitCount](http://hits.dwyl.com/Tamim365/Tamim365.svg)]
+[![HitCount](http://hits.dwyl.com/tamim365/hits.svg)](https://github.com/tamim365/hits)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/tamim365/hits)
 
 <br />
