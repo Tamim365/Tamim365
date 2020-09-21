@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 
 
 [![HitCount](http://hits.dwyl.com/tamim365/tamim365.svg)](http://hits.dwyl.com/tamim365/tamim365)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/tamim365/hits)
 
 <br />
 
