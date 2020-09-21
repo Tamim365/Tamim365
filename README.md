@@ -33,7 +33,11 @@ Here are some ideas to get you started:
 
 <br />
 
+<div align = "left">
+
 ![](https://visitor-badge.glitch.me/badge?page_id=tamim365.tamim365)
+
+</div>
 
 <br />
 
