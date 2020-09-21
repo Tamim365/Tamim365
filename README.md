@@ -1,4 +1,11 @@
 ### Hi there 👋
+
+<div align = "left">
+
+![](https://visitor-badge.glitch.me/badge?page_id=tamim365.tamim365)
+
+</div>
+
 <!--
 **Tamim365/Tamim365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,14 +36,6 @@ Here are some ideas to get you started:
 <a href="https://www.reddit.com/user/tamim365">
   <img align="left" alt="Tamims's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
-</div>
-
-<br />
-
-<div align = "left">
-
-![](https://visitor-badge.glitch.me/badge?page_id=tamim365.tamim365)
-
 </div>
 
 <br />
