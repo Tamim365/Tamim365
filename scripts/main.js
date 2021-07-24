@@ -113,12 +113,14 @@ imagenes.forEach(imagen =>{
 contenedorLight.addEventListener('click', (e) =>{
     if(e.target !== imagenesLight){
         contenedorLight.classList.remove('show');
-        imagenesLight.classList.remove('showImage'); 
+      imagenesLight.classList.remove('showImage');
+      document.querySelector("body").style.overflow = "scroll";
     }
 })
 
 const aparecerImagen = (imagen) =>{
     imagenesLight.src = imagen;
     contenedorLight.classList.add('show');
-    imagenesLight.classList.add('showImage');
+  imagenesLight.classList.add('showImage');
+  document.querySelector("body").style.overflow = "hidden";
 }
