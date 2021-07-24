@@ -44,10 +44,7 @@ Hi, I'm [Tariquel Islam Tamim](https://github.com/Tamim365), an undergraduate st
 
   <img align="right" alt="GIF" src="https://github.com/tamim365/tamim365/blob/master/code.gif?raw=true" width="400" height="280" />
   
-**Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool : App Development;
-- 🌱 I’m currently learning: Flutter and Dart; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [_splash365](https://www.linkedin.com/in/tamim365/);
 
