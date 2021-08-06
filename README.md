@@ -68,7 +68,7 @@ Hi, I'm [Tariquel Islam Tamim](https://github.com/Tamim365), an undergraduate st
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamim365" alt="tamim365" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamim365&show_icons=true&locale=en&layout=compact" alt="tamim365" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamim365&show_icons=true&locale=en&layout=compact" alt="tamim365" /></p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamim365&show_icons=true&locale=en" alt="tamim365" /></p>
 
